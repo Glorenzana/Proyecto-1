@@ -1,0 +1,6 @@
+789,Efectivo,62.0
+78899,Efectivo,550.4
+54645,Efectivo,868.0
+34534,Efectivo,576.0
+12334,Efectivo,550.4
+12334,Cheque,550.4

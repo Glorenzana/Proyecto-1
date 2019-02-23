@@ -1,0 +1,3 @@
+Jabon,12.8,23
+Cremora,15.5,8
+Bananos,1.5,20
